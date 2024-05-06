@@ -386,7 +386,7 @@ function App() {
           <div>
 
           <h1 className=" text-center text-xl xxs:text-2xl sm:text-4xl tracking-wide font-bold font-righteous">
-          galileo
+          GALILiyo
           </h1>
           <h2 className=" text-center text-xl tracking-wide font-bold font-righteous mt-3">
           { question}
