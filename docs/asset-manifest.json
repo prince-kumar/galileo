@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/GALILiyo/static/css/main.4c30afba.css",
-    "main.js": "/GALILiyo/static/js/main.247b4491.js",
-    "static/media/Cross.png": "/GALILiyo/static/media/Cross.cbf77228e847522eff11.png",
-    "static/media/Ranade-Variable.ttf": "/GALILiyo/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
-    "index.html": "/GALILiyo/index.html",
-    "static/media/Github.svg": "/GALILiyo/static/media/Github.6a9e1709e73c56888979048bb60e60a5.svg",
-    "static/media/Settings.svg": "/GALILiyo/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
-    "static/media/Info.svg": "/GALILiyo/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
-    "static/media/Close.svg": "/GALILiyo/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
-    "main.4c30afba.css.map": "/GALILiyo/static/css/main.4c30afba.css.map",
-    "main.247b4491.js.map": "/GALILiyo/static/js/main.247b4491.js.map"
+    "main.css": "/galileo/static/css/main.5650e54a.css",
+    "main.js": "/galileo/static/js/main.1c8499e2.js",
+    "static/media/Cross.png": "/galileo/static/media/Cross.cbf77228e847522eff11.png",
+    "static/media/Ranade-Variable.ttf": "/galileo/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
+    "index.html": "/galileo/index.html",
+    "static/media/Github.svg": "/galileo/static/media/Github.6a9e1709e73c56888979048bb60e60a5.svg",
+    "static/media/Settings.svg": "/galileo/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
+    "static/media/Info.svg": "/galileo/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
+    "static/media/Close.svg": "/galileo/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
+    "main.5650e54a.css.map": "/galileo/static/css/main.5650e54a.css.map",
+    "main.1c8499e2.js.map": "/galileo/static/js/main.1c8499e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c30afba.css",
-    "static/js/main.247b4491.js"
+    "static/css/main.5650e54a.css",
+    "static/js/main.1c8499e2.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "name": "GALILiyo",
+  "name": "galileo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://octokatherine.github.io/GALILiyo",
+  "homepage": "http://octokatherine.github.io/galileo",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@testing-library/jest-dom": "^5.16.1",
